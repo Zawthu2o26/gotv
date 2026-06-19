@@ -150,21 +150,29 @@ http://203.81.84.130/hls/mwd_family/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-entertainment-mm.png",011.Me
 https://mrtvott.com/cache/MRTV-Ent-HD/m3u8/hls_m3u8_MRTV-Ent-HD-TS-H.m3u8
+#https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-farmers-mm.png",012.FARMER
 https://mrtvott.com/cache/MRTV-FARMER/m3u8/hls_m3u8_MRTV-FARMER-TS-H.m3u8
+#https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-nrc-mm.png",013.NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/m3u8/hls_m3u8_MRTV-NRC-HD-TS-H.m3u8
+#https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-sports-mm.png",014.MRTV Sport
 https://mrtvott.com/cache/MRTV-SPORT/m3u8/hls_m3u8_MRTV-SPORT-TS-H.m3u8
 
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-sports-mm.png",014.Hluttaw
+https://mrtvott.com/https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8cache/MRTV-HLUTTAW/master.m3u8
+
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png",015.MRTV
 https://mrtvott.com/cache/MRTV-HD/m3u8/hls_m3u8_MRTV-HD-TS-H.m3u8
+#https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-news-mm.png",016.MRTV News
 https://mrtvott.com/cache/MRTV-NEWS-HD/m3u8/hls_m3u8_MRTV-NEWS-HD-TS-H.m3u8
+#https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
