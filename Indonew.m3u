@@ -38,7 +38,8 @@ https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All
 
 #EXTM3U
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png",001.Mahar BAWDI
-https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/video1_stream.m3u8
+https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8
+#https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/video1_stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png",002.MRTV_4_HD
 https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/video1_stream.m3u8
