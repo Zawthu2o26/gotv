@@ -51,7 +51,8 @@ https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #https://cdn-live-pyone.secureswiftcontent.com/han/PyonePlay/Channel7/LiveOutput/manifest.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png",004.MAHAR TV
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+https://ygncdn.com/live/mahar/360p/chunks.m3u8
+#https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-esports-mm.png",005.MAHAR ESPORTS 
 https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
