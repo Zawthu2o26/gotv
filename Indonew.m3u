@@ -41,22 +41,19 @@ https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All
 https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/video1_stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png",002.MRTV_4_HD
-
+https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/video1_stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png",003.CHANNEL7_HD
 https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/video1_stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png",004.MAHAR TV
 https://ygncdn.com/live/mahar/360p/chunks.m3u8
-#https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-esports-mm.png",005.MAHAR ESPORTS 
-https://tv.mahar.live/esports/mahar.stream/esports/mahar2/chunks.m3u8
-#https://ygncdn.com/live/maharesports/360p/chunks.m3u8
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-esports-mm.png",005.MAHAR ESPORTS the 
+https://ygncdn.com/live/maharesports/360p/chunks.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/dd/democratic-voice-of-burma-tv-mm.png",006.DVB NEW
-https://live-stream.dvb.no/hls/stream_high/index.m3u8
-#
+
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png",007.ForatuneTV HD
 http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
