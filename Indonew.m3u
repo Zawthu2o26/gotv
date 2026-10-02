@@ -59,16 +59,16 @@ https://ygncdn.com/live/maharesports/360p/chunks.m3u8
 https://live-stream.dvb.no/hls/stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png",007.ForatuneTV HD
-http://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
+https://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvm-mm.png",008.TVM
-http://203.81.84.130/hls/mwd_serie/index.m3u8
+https://203.81.84.130/hls/mwd_serie/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png",009.GOLDEN 
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
-http://203.81.84.130/hls/mwd_family/index.m3u8
+https://203.81.84.130/hls/mwd_family/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-entertainment-mm.png",011.Me
 https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
@@ -90,7 +90,11 @@ https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MRTV-HLUTTAW/m3u8/
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-news-mm.png",016.MRTV News
-https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+https://ygncdn.com/live/mahar/360p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm",MITV
+https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-L.m3u8
+#https://mrtvott.com/cache/MITV/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
