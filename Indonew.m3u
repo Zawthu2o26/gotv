@@ -90,9 +90,10 @@ https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MRTV-HLUTTAW/m3u8/
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-news-mm.png",016.MRTV News
-https://ygncdn.com/live/mahar/360p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="MyanmarInternationalTV.mm",MITV
+
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv-mm.png",017.MITV
 https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-L.m3u8
 #https://mrtvott.com/cache/MITV/master.m3u8
 
@@ -100,7 +101,7 @@ https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MITV/m3u8/cache_MI
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.mahar.app/_next/image?url=%2Fimage%2Fbanner.png&w=384&q=75",Mahar TV
-https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+https://ygncdn.com/live/mahar/360p/chunks.m3u8
 
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://fortlune.com/storage/2024/09/FORT-FIN-2-scaled.jpg", FORTUNE TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
