@@ -17,6 +17,12 @@
 https://thefirefox12537.github.io/streams/epg/guide.xml.gz
 
 LoGo >> https://bit.ly/KiTV_LoGo
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8ဗ
+https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/index.m3u84
+https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/index.m3u87
+
 
 
 
@@ -39,15 +45,12 @@ https://raw.githubusercontent.com/Koshwefull/gotv/refs/heads/main/SnapTube%20All
 #EXTM3U
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar_bawdi_tv_mm.png",001.Mahar BAWDI
 https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8
-#https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mrtv_mm_4.png",002.MRTV_4_HD
 https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/index.m3u8
-#https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/video1_stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel7_mm.png",003.CHANNEL7_HD
 https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/index.m3u8
-#https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/video1_stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/mm/mahar-tv-mm.png",004.MAHAR TV
 https://ygncdn.com/live/mahar/360p/chunks.m3u8
