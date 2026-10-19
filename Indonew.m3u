@@ -63,14 +63,13 @@ https://ygncdn.com/live/maharesports/360p/chunks.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/Q39VGWBy/Screenshot-20261019-212209-Chrome.jpg",006.DVB NEW
 https://live-stream.dvb.no/hls/stream.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/ff/fortune-tv-mm.png",007.ForatuneTV HD
-https://103.215.194.93:8282/hls/fortunetv/live/vmix_1080.m3u8
-#https://live-stream.dvb.no/hls/stream.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://fortlune.com/storage/2024/09/FORT-FIN-2-scaled.jpg",007FORTUNE TV
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvm-mm.png",008.TVM
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/v6SgHc8R/Screenshot-20261019-214134-Chrome.jpg",008.TVM
 https://203.81.84.130/hls/mwd_serie/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/gg/golden-land-mm.png",009.GOLDEN 
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/V0vGrDLb/Screenshot-20261019-212223-Chrome.jpg",009.GOLDEN 
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
@@ -99,7 +98,7 @@ https://mrtvott.com/cache/MRTV-HD/master.m3u8
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/vxBzNkh4/Picsart-26-10-17-18-22-41-111.jpg",017.MITV
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/7JPc5jGn/Screenshot-20261019-214141-Chrome.jpg",017.MITV
 https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-L.m3u8
 #https://mrtvott.com/cache/MITV/master.m3u8
 
