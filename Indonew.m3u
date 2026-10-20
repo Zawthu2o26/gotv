@@ -81,21 +81,19 @@ https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/6LxQcvK/Screenshot-20261019-215503-Chrome.jpg",012.FARMER
 https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/mmJTZRN/Screenshot-20261019-221303-Chrome.jpg",013.NRC
-https://i.ibb.co/mmJTZRN/Screenshot-20261019-221303-Chrome.jpg
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/nrc.webp",013.NRC
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/vxBzNkh4/Picsart-26-10-17-18-22-41-111.jpg",014.MRTV Sport
 https://mrtvott.com/cache/MRTV-SPORT/m3u8/hls_m3u8_MRTV-SPORT-TS-H.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/23b6dSJB/Screenshot-20261019-220419-Chrome.jpg",014.Hluttaw
-https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MRTV-HLUTTAW/m3u8/cache_MRTV-HLUTTAW_m3u8_hls_m3u8_MRTV-HLUTTAW-TS-L.m3u8
-#https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/HfBPtFgc/Screenshot-20261019-215511-Chrome.jpg",015.MRTV
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mrtv.webp",015.MRTV
 https://mrtvott.com/cache/MRTV-HD/master.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/vxBzNkh4/Picsart-26-10-17-18-22-41-111.jpg",016.MRTV News
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mrtvnews.webp",016.MRTV News
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 
 
