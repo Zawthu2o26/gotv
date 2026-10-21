@@ -119,8 +119,16 @@ http://203.81.84.130/hls/mwd/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",022.MWD _Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",023.MWD _
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https:",023.MWD_document
 http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",024.Channel 9
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",025.Channel K
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+
 
 
 
