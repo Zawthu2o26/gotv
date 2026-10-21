@@ -85,8 +85,7 @@ https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
 https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/mmJTZRN/Screenshot-20261019-221303-Chrome.jpg",014.MRTV Sport
-https://mrtvott.com/cache/MRTV-SPORT/m3u8/hls_m3u8_MRTV-SPORT-TS-H.m3u8
-#https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/23b6dSJB/Screenshot-20261019-220419-Chrome.jpg",014.Hluttaw
 https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
@@ -111,8 +110,18 @@ https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",020.MRTV News
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",020.5plus
 https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",021.MWD
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",022.MWD _Va
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",023.MWD _
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+
 
 
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
