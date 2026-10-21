@@ -72,7 +72,7 @@ https://203.81.84.130/hls/mwd_serie/index.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/V0vGrDLb/Screenshot-20261019-212223-Chrome.jpg",009.GOLDEN 
 http://203.81.84.130/hls/mwd_document/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-light-mm.png",010.C LIGHT
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/tpJJ0J3b/Screenshot-20261021-090748-Sky-TV.jpg",010.C LIGHT
 https://203.81.84.130/hls/mwd_family/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/channelme_bg.webp",011.Me
