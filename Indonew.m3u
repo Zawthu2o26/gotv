@@ -113,7 +113,7 @@ https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",021.MWD
 http://203.81.84.130/hls/mwd/index.m3u8
 
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/5plus_bg.webp",022.MWD _Variety
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.imgur.com/wb3Ku8X.png",022.MWD _Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https:https://i.imgur.com/4XV7cjU.png",023.MWD_document
