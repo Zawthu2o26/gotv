@@ -918,10 +918,16 @@ https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8#skym3u
 https://mediaserver.abnvideos.com/streams/abnurdu.m3u8#skym3u.dev
 
 
-🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> ⭐MOVIES⭐
-//========================================================================
+>>> ⭐MOVIE
 
 #======================================================== CINEMAX ====================================================================
+
+
+
+#EXTM3U
+
+
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
