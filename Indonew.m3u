@@ -377,24 +377,28 @@ https://pepsi3.abntv.live/hls/psp3.m3u8
 https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",006.LIVE (MYN VOICE)
 https://live.95tv.live/channel/25/playlist.m3u8
+@@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+
 
 #############################$$$$##########
 
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="SPORTS",079. Sport.TV1
-https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+http://31.43.191.125:8080/vip4471772705519/d567ed804869/34535
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV2.png" group-title="SPORTS",080. Sport.TV2
-https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+http://31.43.191.125:8080/vip4471772705519/d567ed804869/34534
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV3.png" group-title="SPORTS",081. Sport.TV3
-https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
+http://31.43.191.125:8080/vip4471772705519/d567ed804869/34533
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV4.png" group-title="SPORTS",082. Sport.TV4
-https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
+http://31.43.191.125:8080/vip4471772705519/d567ed804869/34532
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV5.png" group-title="SPORTS",083. Sport.TV5
-https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
+http://31.43.191.125:8080/vip4471772705519/d567ed804869/34531
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV6.png" group-title="SPORTS",084. Sport.TV6
 https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
