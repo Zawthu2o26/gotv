@@ -400,6 +400,21 @@ https://pepsi4.abntv.live/hls/psp4.m3u8
 http://31.43.191.125:8080/vip4471772705519/d567ed804869/34533
 #https://live.95tv.live/channel/25/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png" group-title="SPORTS 2", SPORT-TV 1
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179120
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.1.png" group-title="SPORTS 2", SPORT-TV 2
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179122
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%203.png" group-title="SPORTS 2", SPORT-TV 3
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179124
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.1.png" group-title="SPORTS 2", SPORT-TV 4
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179126
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="SPORTS 2", SPORT-TV 5
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179129
+
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="Sports",079. Sport.TV1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
