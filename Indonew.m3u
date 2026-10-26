@@ -187,16 +187,16 @@ http://203.81.84.130/hls/mwd/index.m3u8
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.imgur.com/4XV7cjU.png",023.MWD_document
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",PTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://streammain.myanmartvchannels.com:8443/website-channel9-stream/website-channel9-stream/chunks.m3u8?nimblesessionid=683&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAyNiAxMTo1NDowMCBQTSZoYXNoX3ZhbHVlPTR0Rm05cUVGNUFpN3NEWGExeGlIZnc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9MTc5Mjk3MjQ0MDQ1ODU2Njk=
-#http://203.81.84.130/hls/mwd_document/index.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",024.Channel 9
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",PTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -205,7 +205,6 @@ https://mmtvs.exliatycl.online/channel9/stream.m3u8
 
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/prZPLp0Q/Screenshot-20261019-214056-Chrome.jpg",025.Channel K
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",PTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -213,7 +212,6 @@ https://mmtvs.exliatycl.online/channel9/stream.m3u8
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
 
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFKBNjwP/Ptvsportslogo2023.webp" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",PTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
