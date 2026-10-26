@@ -415,7 +415,7 @@ http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179126
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png" group-title="SPORTS 2", SPORT-TV 5
 http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/179129
 
-#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="Sports",079. Sport.TV1
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sport.TV1.png" group-title="SPORTS",079. Sport.TV1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
