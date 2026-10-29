@@ -673,6 +673,14 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1", FUBO NETWORK 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/Lz_AGLm13QancA==/0db3dce1-41f0-4900-8fcc-3983ab4d492d/CPwDEJ0COgUxLjEuOQ==" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1", FUBO NETWORK 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://jmp2.uk/rok-b4273871759a5631bd536d2214f175e5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YqqL69rF/20250120_193708.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",TNT 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
