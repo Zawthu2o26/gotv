@@ -174,7 +174,7 @@ https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MITV/m3u8/cache_MI
 #https://mrtvott.com/cache/MITV/master.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/heyplay.webp",018.HEYPLAY
-https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+https://raw.githubusercontent.com/Zawthu2o26/gotv/refs/heads/main/Myanmar.m3u8
 
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mchannel.webp",019.M_channle
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
