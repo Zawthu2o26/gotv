@@ -822,6 +822,10 @@ http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY", StarSports 2_indie 
 http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY", StarSports 3_indie 
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=sboxcast
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY", StarSports Select 1 HD 
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
 
@@ -830,6 +834,9 @@ http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY", TEN SPORTS 
 http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="SONY", T SPORTS 
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox aster 
 
 **************************************************/////*********************************
 
