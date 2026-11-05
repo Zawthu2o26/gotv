@@ -552,6 +552,7 @@ https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
+#http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Star Sports 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -559,6 +560,7 @@ https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Star Sports SL 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -566,6 +568,7 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
+#http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Star Sports SL 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -573,6 +576,7 @@ https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
+#http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Sony Ten 1
 #KODIPROP:inputstream=inputstream.adaptive
@@ -580,6 +584,7 @@ https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
+#http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Sony Ten 2
 #KODIPROP:inputstream=inputstream.adaptive
@@ -587,6 +592,7 @@ https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
+#http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Sony Ten 5
 #KODIPROP:inputstream=inputstream.adaptive
@@ -594,6 +600,7 @@ https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+#http://103.114.11.37:8081/Sony-sports-4/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Bein Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
