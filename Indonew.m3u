@@ -263,8 +263,6 @@ http://31.43.191.125:8080/vip4471772705519/d567ed804869/34533
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",007.LIVE (MYN VOICE)
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
 
-
-
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1-nLI704D5b5uKueXMlAgrXRQO2wxXIqrByz6VDyuPA&s=10",008.LIVE (MYN VOICE)
 http://31.43.191.125:8080/vip4471772705519/d567ed804869/34533
 
@@ -406,7 +404,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Star Sports 1
 #KODIPROP:inputstream=inputstream.adaptive
