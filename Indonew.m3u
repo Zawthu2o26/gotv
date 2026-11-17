@@ -117,6 +117,9 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 
 #EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
+
+
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/maharbawdi.webp",001.Mahar BAWDI
 https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8
 
@@ -240,6 +243,7 @@ http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 ____________________________________________________________________________
 
 #EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:-1 group-title="SPORTS"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_dPdlkdF9b9QNXDM7Szx-iUFa2eoX81X9TfmXtaqtNw&s=10",001.Fight
@@ -343,6 +347,7 @@ http://31.43.191.125:8080/vip4471772705519/d567ed804869/157334
 @@@@@@@@@@@@@@@@@@@@@#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 #EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/v8JPQjFK/laliga.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬1",Laliga HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -599,7 +604,8 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
 
 @@@@@@@@@@####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-
+#EXTM3U 
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 group-title="Хорватия | Croatia" tvg-id="4563" tvg-logo="http://epg.one/img2/4563.png" tvg-rec="0",Arena Sport 1 FHD HR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7263/index.m3u8
@@ -657,6 +663,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/T6S375Z339BMDL/7334/inde
 @@@@@@@@@@@@@@###@@@@@#@######
 
 
+#EXTM3U 
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2lJmgA-bjp63oxrB4WA_9QGyYD-vykpSCI5J-2VwYBnJkNMlVBbN3xk5Z5eKQee2wvBWGf97Znj8B5KmnOFHcO759x9-Q3n5MxIoCHG5_e3zVuqogJhrXA1woO7Z5YpkcTqXdx4yoKUi0h-eZMxU64QEMX2wnY8zW1fJ2lcU3gdgaA4BGHGBQdHpvADKL/s1280/PicRetouch_20250305_092253555.png" group-title="SONY",SONY SPORTS TEN 1
 http://103.114.11.37:8081/Sony-sports-1/index.m3u8?token=sboxcast
 
@@ -705,6 +714,7 @@ http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sbox aster
 
 @@@@@@@@@@@@@#####@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 #EXTM3U
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="TAMIL | ENTERTAINMENT", Tamil: VIJAY TV (4K).
 http://markethelp1.com:80/sree1602/9196sree/98898
@@ -911,7 +921,7 @@ http://markethelp1.com:80/sree1602/9196sree/825633
 
 <=================={=======≠{=={====={===============≠=====>
 #EXTM3U
-
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://tinyurl.com/mr2dec8v" provider="skym3u.dev",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8#skym3u.dev
@@ -1327,6 +1337,9 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8#skym3u.dev
 🔸🔸 Collected by @mimipipi22 menampilkan playlist >>> THAILAND 🇹🇭
 //========================================================================
 
+#EXTM3U 
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/7.png" group-title="THAILAND 🇹🇭",T Sports 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1458,9 +1471,8 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 >>> ⭐MOVIE
 
 
-#EXTM3U
-
-
+#EXTM3U 
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
@@ -1946,6 +1958,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 //========================================================================
 
 #========================================================  ====================================================================
+#EXTM3U 
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
+
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2793,7 +2808,12 @@ https://shahid-sports-4-enc.edgenextcdn.net/out/v1/f813ab47644d4c41a99285513f6c7
 #KODIPROP:inputstream.adaptive.license_key=e2df3c205b674360bc6f364ba1090e70:93da2c77bc812bc05a6e20ad8d35ea78
 https://shahid-sports-5-enc.edgenextcdn.net/out/v1/ae00715d1c2c4432852b44a254c04a3d/index.mpd
 
+
 #======================================================== RUTUBE ====================================================================
+
+#EXTM3U 
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1440000,BANDWIDTH=1790000,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2",CLOSED-CAPTIONS=NONE tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gdwDYcl.png" group-title="⭐⭐SPORTS⭐⭐",SKY SPORT PREMIER LEAGUE HD (RUTUBE)
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=https
